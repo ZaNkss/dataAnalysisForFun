@@ -1,3 +1,4 @@
 *.log
 test.py
 config.py
+__pychache__/
