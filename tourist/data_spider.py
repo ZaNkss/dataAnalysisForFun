@@ -11,8 +11,6 @@ import time
 
 import pandas as pd
 import requests
-
-import config
 import db_client
 
 
