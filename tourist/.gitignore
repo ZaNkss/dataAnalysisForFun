@@ -1,5 +1,5 @@
 *.log
-test.py
+test.*
 config.py
 __pychache__/
 data.csv
